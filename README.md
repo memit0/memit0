@@ -8,3 +8,8 @@ Hey! I'm Mehmet 🦆
 - pivot: run, lift, soccer
 - always trying to build new stuff
 - interested in bio x ai
+
+```
+
+```
+$ npx memit0

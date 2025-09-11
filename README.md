@@ -3,7 +3,7 @@ Hey! I'm Mehmet 🦆
 ```bash
 
 - i am from Istanbul, Turkey
-- study cs @ bu
+- study cs @ boston university
 - always trying to build new stuff
 
 ```
